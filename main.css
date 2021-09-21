@@ -1,5 +1,6 @@
 body {
-    background-color: #f8f400;
+    background-image: url(./assets/170293-popcorn-4k-ultra-hd-wallpaper.jpg);
+    background-color: #cccccc;
     font-family: 'Cardo', serif;
 }
 
@@ -74,7 +75,7 @@ font-family: 'Cardo', serif;
   cursor: pointer;
     border-radius: 12px;
     color: #fff;
-    background: #f8f400; /* linear-gradient(to right, #592a60, darkred);*/
+    background: #f8f400; 
     border: 0;
     padding-left: 125px;
     padding-right: 125px;
@@ -97,7 +98,7 @@ font-family: 'Cardo', serif;
 
 a {
     text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
-    color: #E1BEE7;
+    color: #ff0404;
     text-decoration: none
 }
 
@@ -188,7 +189,7 @@ a {
   }
 
   .logo {
-    background-color: #592a60;
+    background-color: #fa8807;
     width: 500px;
     height: 200px;
     margin: auto;
@@ -202,7 +203,7 @@ a {
     padding-top: 5px;
     padding-right: 110;
     padding-left: 110px;
-    color: #592a60;
+    color: #ff7e06;
     font-family: 'Cardo', serif;
     text-transform: uppercase;
     font-weight: none;
@@ -216,7 +217,7 @@ a {
   /* Add a black background color to the top navigation bar */
 .topnav {
   overflow: hidden;
-  color: #592a60;
+  color: #ff7e06;
   background-color: whitesmoke;
   font-size: 12px;
 }
@@ -225,7 +226,7 @@ a {
 .topnav a {
   float: left;
   display: block;
-  color: #592a60;
+  color: #ff7e06;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -234,8 +235,8 @@ a {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #592a60;
-  color: #592a60;
+  background-color: #ff7e06;
+  color: #ff7e06;
   font-size: 12px;
 }
 
@@ -244,7 +245,7 @@ a {
   background-color: #2196F3;
   padding-top: 0px;
   padding-left: 0px;
-  color:#592a60;
+  color:#ff7e06;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: bold;
@@ -280,7 +281,7 @@ a {
 }
 .barbar {
   overflow: hidden;
-  color: #592a60;
+  color: #ff7e06;
   background-color: whitesmoke;
 }
 .barbar input[type=text] {
@@ -297,7 +298,7 @@ a {
 .barbar subtitle[type=sub] {
   font-family: 'Oswald', sans-serif;
   font-size: 12px;
-  color: #592a60;
+  color: #ff7e06;
   padding-left: 10px;
 }
 .imgclass {
